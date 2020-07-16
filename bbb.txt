@@ -4,3 +4,8 @@ test bbb;
 3c
 4d
 5e
+ git remote add origin2 git@github.com:jideorwangji/git_study.git
+ 
+ git clone git@github.com:jideorwangji/git_study_test.git
+
+ git branch dev
